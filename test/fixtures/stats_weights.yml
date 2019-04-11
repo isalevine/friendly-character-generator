@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  charisma: 1
+  dexterity: 1
+  intelligence: 1
+  stamina: 1
+  strength_magic: 1
+  wisdom_awareness: 1
+
+two:
+  charisma: 1
+  dexterity: 1
+  intelligence: 1
+  stamina: 1
+  strength_magic: 1
+  wisdom_awareness: 1

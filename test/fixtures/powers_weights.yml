@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  archetype_id: 1
+  more_damage: 1
+  prevent_damage: 1
+  super_stealth: 1
+  mind_control: 1
+  super_senses: 1
+
+two:
+  archetype_id: 1
+  more_damage: 1
+  prevent_damage: 1
+  super_stealth: 1
+  mind_control: 1
+  super_senses: 1

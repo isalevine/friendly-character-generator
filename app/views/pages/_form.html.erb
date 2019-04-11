@@ -1,0 +1,11 @@
+<div id="new-user-div">
+
+  <h3>This is the _form view (called a 'partial') for Users.</h3>
+
+  <%= form_tag(users_path, method: "POST", id: "new-user-form") do %>
+    <%= label_tag(:name) %>
+    <%= text_field_tag("user[name]") %>
+    <%= submit_tag "Create New User" %>
+  <% end %>
+
+</div>

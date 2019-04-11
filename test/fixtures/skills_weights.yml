@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  athletics_dodge: 1
+  awareness: 1
+  deception: 1
+  feats_of_strength: 1
+  intimidation: 1
+  investigation: 1
+  larceny_crime: 1
+  magic_computer: 1
+  performance: 1
+  persuasion: 1
+  socialize: 1
+  stealth: 1
+
+two:
+  athletics_dodge: 1
+  awareness: 1
+  deception: 1
+  feats_of_strength: 1
+  intimidation: 1
+  investigation: 1
+  larceny_crime: 1
+  magic_computer: 1
+  performance: 1
+  persuasion: 1
+  socialize: 1
+  stealth: 1

@@ -1,0 +1,11 @@
+<div id="new-base-character-div">
+
+  <h3>This is the _form2 view--it's different!</h3>
+
+  <%= form_tag(base_characters_path, method: "POST", id: "new-base-character-form") do %>
+    <%= label_tag(:name) %>
+    <%= text_field_tag("base_character[name]") %>
+    <%= submit_tag "Create New Character" %>
+  <% end %>
+
+</div>

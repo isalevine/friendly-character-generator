@@ -1,0 +1,29 @@
+<h1>Welcome to Friendly Character Generator!</h1>
+
+<h2>This is the 'pages#main' view.</h2>
+
+<h3>Users</h3>
+<p>Create User/Login (navbar?)</p>
+<p><%= link_to "Create New User", new_user_path %></p>
+
+<h3>Characters</h3>
+<p>Create Character (link?)</p>
+
+<h3>Archetypes</h3>
+<p>Create Archetype (admin only?)</p>
+
+
+<br><br><br><br><br>
+
+
+<div id="form-container">
+
+  <%= render 'form' %>
+  <%= render 'form2' %>
+
+</div>
+
+<br><br>
+<button id="toggle-user-form">User Form on/off</button>
+
+<button id="toggle-base-character-form">Character Form on/off</button>
